@@ -1,0 +1,14 @@
+requests
+pandas
+mysql-connector-python
+openai
+fastapi
+python-jose
+passlib
+starlette
+sqlalchemy
+pytz
+argon2_cffi
+python-dotenv
+python-multipart
+uvicorn
